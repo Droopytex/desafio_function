@@ -1,0 +1,11 @@
+.caja {
+  width: 200px;
+  height: 200px;
+}
+
+.principal {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-around;
+}
